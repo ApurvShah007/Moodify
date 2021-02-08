@@ -3,7 +3,7 @@
 # Moodify
 Music for your Mood! Tweet at us and we got you covered!
 
-Team - [Apurv Shah](https://apurvshah007.github.io/), Jiaru (Kelly) Li, Rachel Allgaier, Shalin Patel
+Team - [Apurv Shah](https://apurvshah007.github.io/), [Jiaru (Kelly) Li](https://github.com/kellylijiaru), Rachel Allgaier, [Shalin Patel](https://github.com/PatelShalin)
 
 ***Won the best ML Hack at Hacklytics 2021.*** [Check out the project submission](https://devpost.com/software/moodify-bjkw5v). Leave a like if you like the project!
 
