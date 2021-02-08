@@ -1,6 +1,6 @@
 
 
-# Moodify
+# Moodify 
 Music for your Mood! Tweet at us and we got you covered!
 
 Team - [Apurv Shah](https://apurvshah007.github.io/), [Jiaru (Kelly) Li](https://github.com/kellylijiaru), [Rachel Allgaier](https://github.com/rallgaier99), [Shalin Patel](https://github.com/PatelShalin)
